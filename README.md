@@ -2,7 +2,7 @@
 
 <ul align="center">
   <li>https://isakdev.com/</li>
-  <li>https://locus.solutions/index.html</li>
+  <li>https://locus.solutions/</li>
  </ul>
 
                     
