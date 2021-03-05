@@ -1,7 +1,7 @@
 <h1 align="center">Websites i've made</h1>
 
-  <a align="center">https://isakdev.com/</a>
-  <a align="center">https://locus.solutions/</a>
+<p align="center"><a>https://isakdev.com/</a>
+  <a>https://locus.solutions/</a></p>
 
 
                     
