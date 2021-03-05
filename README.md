@@ -2,7 +2,9 @@
 
 <p align="center">
   <a href="https://isakdev.com/">isakdev.com</a>
+  <br>
   <a href="https://locus.solutions/">locus.solutions</a>
+  <br>
 </p>
 
 
