@@ -13,8 +13,9 @@
 </p>
 ---
 <h4 align="center">Contact Me</h4>
-* Discord: 100#2946
-* Telegram: https://t.me/isak105
+ <li>Discord: 100#2946</li>
+ <br>
+ <li>Telegram: https://t.me/isak105</li>
 
 
                     
