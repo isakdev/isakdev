@@ -18,9 +18,9 @@
 <h4 align="center">Contact Me</h4>
 
 
- <li align="center">Discord: 100#2946</li>
+ <p align="center">Discord: 100#2946</li>
  <br>
- <li align="center">Telegram: https://t.me/isak105</li>
+ <p align="center">Telegram: https://t.me/isak105</li>
 
 
 
