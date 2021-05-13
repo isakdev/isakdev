@@ -1,6 +1,6 @@
 <h1 align="center">isakdev</h1>
-* HTML, CSS and Javascript. Getting into frameworks such as Vue, Angular and React!
-* Front-End Web Developer
+ <p align="center">HTML, CSS and Javascript. Getting into frameworks such as Vue, Angular and React!</p>
+  <p align="center">Front-End Web Developer</p>
 
 
 <h3 align="center">Websites i've made</h3>
