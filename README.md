@@ -19,7 +19,6 @@
 
 
  <p align="center">Discord: 100#2946</li>
- <br>
  <p align="center">Telegram: https://t.me/isak105</li>
 
 
