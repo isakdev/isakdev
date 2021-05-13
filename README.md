@@ -17,11 +17,11 @@
 
 <h4 align="center">Contact Me</h4>
 
-<p align="center">
- <li>Discord: 100#2946</li>
+
+ <li align="center">Discord: 100#2946</li>
  <br>
- <li>Telegram: https://t.me/isak105</li>
- </p>
+ <li align="center">Telegram: https://t.me/isak105</li>
+
 
 
                     
