@@ -1,4 +1,4 @@
-
+![](https://komarev.com/ghpvc/?username=isakdev&style=plastic&color=000000)
 ### isak#2946
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
