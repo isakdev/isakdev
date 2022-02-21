@@ -1,5 +1,8 @@
+
 ![](https://komarev.com/ghpvc/?username=isakdev&style=plastic&color=000000)
-### isak#2946
+### | isak#2946 |
+    | :-: |
+
 ![.](https://github-readme-stats.vercel.app/api?username=isakdev&show_icons=true&bg_color=1f1f1f&text_color=f2f2f2&title_color=f2f2f2&border_color=000000&icon_color=94d6ff)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
