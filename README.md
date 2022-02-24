@@ -1,10 +1,8 @@
 
 ![](https://komarev.com/ghpvc/?username=isakdev&style=plastic&color=000000)
 ## isak#2946 
-#### Novice Game Developer
-#### Intermediate Front-End Website Developer
-#### Proficient UI/UX Designer
-#### * Developing MiasmaGame
+- Frontend Website Developer, UE4 Developer & UI/UX Designer
+#### - Developing MiasmaGame
 
 
 ![.](https://github-readme-stats.vercel.app/api?username=isakdev&show_icons=true&bg_color=1f1f1f&text_color=f2f2f2&title_color=f2f2f2&border_color=000000&icon_color=94d6ff)
