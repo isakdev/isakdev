@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=isakdev&style=plastic&color=000000)
 ## isak#2946 
 - Frontend Website Developer, UE4 Developer & UI/UX Designer
-- Developing MiasmaGame
+
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=isakdev&theme=dark)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isakdev&layout=compact)
